@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">JOYOS Лог</string>
+    <string name="option_name">JOYOS Лог - Опции</string>
+    <string name="bt_log">Один клик для записи лога</string>
+    <string name="bt_adv">Дополнительные настройки</string>
+    <string name="bt_end">Выйти</string>
+    <string name="bt_logstart">Сохранить лог</string>
+    <string name="bt_logend">Назад</string>
+    <string name="cb_logcat">Лог приложения - информация</string>
+    <string name="cb_dmesg">Лог ядра - информация</string>
+    <string name="cb_dumpstate">Информация о системе</string>
+    <string name="get_log">Получаем логи, подождите......</string>
+    <string name="checkbox">Не выбрано, для чего следует записать логи</string>
+    <string name="sdcard">Карта памяти не используется, выберите</string>
+    <string name="path">Путь создания лога неверен, проверьте карту памяти</string>
+    <string name="finish">Успешно сохранен лог</string>
+    <string name="finish_adv">Логи получены, сохранено в папке /sdcard/joyos/</string>
+</resources>

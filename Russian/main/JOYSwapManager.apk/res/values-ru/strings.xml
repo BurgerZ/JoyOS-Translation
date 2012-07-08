@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="hello">Hello World, JOYSwapManager!</string>
+    <string name="app_name">JOYSwapManager</string>
+    <string name="swap_info">JOY Swap Manager</string>
+    <string name="bt_partition">Choose SWAP Creation Partition</string>
+    <string name="bt_size">Choose SWAP Creation Size</string>
+    <string name="bt_create">Create SWAP</string>
+    <string name="bt_clear">Clear SWAP</string>
+    <string name="bt_desc">SWAP Declaration</string>
+    <string name="bt_check">SWAP Status</string>
+    <string name="partition_title">Choose SWAP Partition</string>
+    <string name="data_pt">DATA partition</string>
+    <string name="system_pt">SYSTEM partition</string>
+    <string name="sdcard_pt">SDCARD partition</string>
+    <string name="size_title">Choose SWAP Size</string>
+    <string name="size_32m">32 M</string>
+    <string name="size_64m">64 M</string>
+    <string name="size_96m">96 M</string>
+    <string name="size_128m">128 M</string>
+    <string name="size_256m">256 M</string>
+    <string name="size_512m">512 M</string>
+    <string name="desc_title">JOYSwapManager Use Guide</string>
+    <string name="desc_text">This application is easy to use for JOYOS ROM. It needs ROOT permission to create and mount SWAP partition. The process time of creating SWAP maybe long (about a few minutes), because SWAP size you choose maybe large. So please wait for it patiently. After creating successfully, please click SWAP Status button to check its status. If you want to re-create it, please click Clear SWAP button first, and then reboot phone, create it again.</string>
+    <string name="check_title">SWAP Status Query</string>
+    <string name="prompt1">Please click Create SWAP Button, and wait patiently ...</string>
+    <string name="prompt2">No enough space in DATA partition，please re-choose SWAP size</string>
+    <string name="prompt3">No enough space in SYSTEM partition, please re-choose SWAP size</string>
+    <string name="prompt4">No enough space in SDCARD partition, please re-choose SWAP size</string>
+    <string name="prompt5">Create SWAP partition successfully!</string>
+    <string name="prompt6">Please choose SWAP partition and szie</string>
+    <string name="prompt7">Clear SWAP partition successfully! If you want to re-create SWAP partition, please reboot phone at first!</string>
+    <string name="prompt8">Creating...</string>
+    <string name="prompt9">Create SWAP partition failed!</string>
+    <string name="prompt10">Clear SWAP partition failed!</string>
+    <string name="sdcard_title">SDCARD partition using warning!</string>
+    <string name="sdcard_text">You are choosing SDCARD to create swap partition. After creating SWAP partition, the phone can not use USB Mass Storage mode to connect your computer. If you want to use UMS mode, please click Clear SWAP button and reboot your phone.</string>
+</resources>

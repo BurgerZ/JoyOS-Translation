@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_label">Строка состояния</string>
+    <string name="status_bar_clear_all_button">Очистить</string>
+    <string name="status_bar_no_notifications_title">Нет уведомлений</string>
+    <string name="status_bar_ongoing_events_title">Текущие</string>
+    <string name="status_bar_latest_events_title">Просмотр</string>
+    <string name="battery_low_title">Подключите зарядное устройство</string>
+    <string name="battery_low_subtitle">Батарея разряжена:</string>
+    <string name="battery_low_percent_format">Осталось %d%% или меньше.</string>
+    <string name="battery_low_why">Расход заряда батареи</string>
+    <string name="usb_device_confirm_prompt">Открывать %1$s когда USB-устройство подключено?</string>
+    <string name="usb_accessory_confirm_prompt">Открывать %1$s когда USB-аксессуар подключен?</string>
+    <string name="usb_accessory_uri_prompt">Установленные приложения не поддерживают этот USB-аксессуар.</string>
+    <string name="title_usb_accessory">USB-устройство</string>
+    <string name="label_view">Просмотр</string>
+    <string name="always_use_accessory">Использовать по умолчанию для этого USB-аксессуара</string>
+    <string name="switch_button">Кнопки</string>
+    <string name="airplane">Полет</string>
+    <string name="backlight">Подсветка</string>
+    <string name="data">Интернет</string>
+    <string name="lock">Блок.</string>
+    <string name="network_type">Сеть</string>
+    <string name="sync">Синх.</string>
+    <string name="rotation">Сенсор</string>
+    <string name="bt">BT</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="sound">Звук</string>
+    <string name="gps">GPS</string>
+    <string name="saving_mode">Эконом</string>
+    <string name="date_moth_format">d MMMM, EEEE</string>
+    <string name="date_format">E, d MMM yyyy</string>
+    <string name="twelve_hour_time_format">h:mma</string>
+    <string name="twenty_four_hour_time_format">HH:mm</string>
+</resources>

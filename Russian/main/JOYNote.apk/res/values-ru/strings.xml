@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="hello">Hello World, HelloNotesActivity!</string>
+    <string name="app_name">Заметки</string>
+    <string name="about" />
+    <string name="about_title">Версия 1.2</string>
+    <string name="develop_by">Перевел Ермоленко Евгений</string>
+    <string name="for_jobs" />
+    <string name="sub_title">специально для сайта 4PDA.RU</string>
+</resources>
